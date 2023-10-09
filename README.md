@@ -2,7 +2,19 @@
 Unofficial Instagram Api made in python
 
 
-# Under Development
+# Documentaion is Under Development
+
+You can get started by importing instagramapi from instapi
+
+```
+from instapi import instagramapi
+api = instagramapi(username, password)
+api.login()
+api.save_session() #for avoiding re-login
+
+# Saved session can be loaded by api.load_session('sessionfilename')
+```
+
 
 ### Find Me on :
 <p align="left">
