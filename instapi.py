@@ -9,6 +9,7 @@ import pickle
 from urllib3 import disable_warnings
 import base64
 
+# Instagram API Version 2.1
 disable_warnings()
 error_codes = {201: "Created",
                204: "No Content",
