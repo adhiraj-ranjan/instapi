@@ -2,7 +2,7 @@
 Unofficial Instagram Api made in python
 
 
-# Documentaion is Under Development
+# pull requests for Documentation are welcomed
 
 You can get started by importing instagramapi from instapi
 
